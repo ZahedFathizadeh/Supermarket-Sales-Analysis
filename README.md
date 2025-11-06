@@ -4,7 +4,7 @@ A small project for analyzing retail sales data using the `SuperMarket Analysis.
 
 ## Repository contents
 - [main.py](main.py) — main analysis script that reads the dataset and generates outputs.  
-- [SuperMarket Analysis.csv](SuperMarket%20Analysis.csv) — source dataset.  
+- [SuperMarket_Analysis.csv](data/SuperMarket_Analysis.csv) — source dataset.  
 - [outputs/](outputs/) — generated charts and reports.
 
 ## Requirements
