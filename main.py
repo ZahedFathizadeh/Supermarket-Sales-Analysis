@@ -102,4 +102,4 @@ for p in ax3.patches:
 fig3.tight_layout()
 fig3.savefig(os.path.join(out_dir,'sales_by_gender.png'), bbox_inches='tight',dpi=150)
 plt.close(fig3)
-print(f'Chart saved to: {out_dir}sales_by_gender.png') 
+print(f'Chart saved to: {out_dir}sales_by_gender.png')
